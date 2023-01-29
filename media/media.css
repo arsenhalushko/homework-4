@@ -1,0 +1,68 @@
+
+/* XS size */
+@media screen and (min-width:0) and (max-width: 575px ){
+
+}
+/* SM size*/
+
+@media screen and (min-width:576px) and (max-width: 768px ){
+
+}
+
+/* Md size*/
+
+@media screen and (min-width:768px) and (max-width: 992px ) {
+
+    .father {
+        background-color: silver;
+        width: 100%;
+    }
+
+    .box_a { width: 100%;
+        height: 125px;
+        background-color: crimson;
+
+    }
+
+    .dflex {
+        flex-direction: column;
+
+    }
+
+    .box_b {
+        width: 100%;
+        height: 300px;
+        background-color: greenyellow;
+    }
+
+    .box_c {
+        width: 100%;
+        height: 200px;
+        background-color:  cornflowerblue;
+
+    }
+    .block_b{
+        width: 100%;
+        height: 150px;
+
+    }
+}
+
+
+
+/* l size*/
+
+@media screen and (min-width:992px) and (max-width: 1200px ){
+
+}
+/* xl size*/
+
+@media screen and (min-width:1200px) and (max-width: 1400px ){
+
+}
+
+/* xxl size*/
+
+@media screen and (min-width:1400px) {
+
+}
